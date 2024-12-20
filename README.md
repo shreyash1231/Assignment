@@ -112,4 +112,3 @@ You can test the application using Postman or any HTTP client.
 
 - If you encounter issues with session management, ensure that cookies are enabled in your HTTP client (e.g., Postman).
 - Make sure the H2 database is being populated correctly from `data.sql`. You can check the H2 console for a direct view of the database.
-# Assignment
